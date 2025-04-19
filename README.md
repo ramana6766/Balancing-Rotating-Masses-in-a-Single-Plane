@@ -1,0 +1,4 @@
+Rotatingsystemsareintegraltomanymechanicalprocesses,yetimbalancesinthese systems often result in vibrations, noise, and decreased efficiency. This project aims toaddresstheissueofbalancingrotatingmassesinasingleplaneusingPython.The solution involves both analytical calculations and graphical visualization.
+By employing a Tkinter-based graphical user interface (GUI), users can input the properties of rotating masses (mass, radius, and angular position), view the calculatedbalancingmassanditsposition,andobservegraphicalrepresentationsof forces in a 2D plot. This integration of numerical computation and visualization providesanaccessibletoolforstudentsandprofessionalstounderstandandanalyze the balancing process.
+
+Theprojectdemonstratesthebalancecomputationusingresultantforcesandensures that the balancing process is both intuitive and visually engaging. Its scalability and user-friendly interface make it a valuable tool in mechanical engineering education.
